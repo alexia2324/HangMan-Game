@@ -1,9 +1,10 @@
 # HangMan Game - C++ & Raylib
+
 Language: C++ (Object-Oriented Programming)
-Graphics: Raylib
+Graphics: Raylib;
 Data: External .txt files for word databases.
 Pick Difficulty: Choose your level in the console.
-Guess Letters: Type letters on your keyboard while the game window is active, it shows you how many attempts you have left and gives you clues for your 5th attempt
+Guess Letters: Type letters on your keyboard while the game window is active, it shows you how many attempts you have left and gives you clues for your 5th attempt;
 Win: Guess the word before the man is fully drawn!
 <img width="1330" height="625" alt="image" src="https://github.com/user-attachments/assets/52815c2b-dd31-46b8-8b6a-785807341969" />
 <img width="999" height="831" alt="image" src="https://github.com/user-attachments/assets/62ee8da2-9939-4b36-b765-9f8e6bbac644" />
